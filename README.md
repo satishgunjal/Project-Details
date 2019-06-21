@@ -35,9 +35,9 @@ List of all the projects I have worked on till date
 
 ## MiniCRM
 - Client- DCB Bank Mumbai, UCBL Bangladesh, APDRP Andhra Pradesh
-- Leading the design and developmnt of MiniCRM for banks and telcos
+- Leading the design and developmnt of MiniCRM for banks and Telcos
 - Supports all the agent and telephony functionality along with REST web servces for integration with third party applications
-- Integrated with IVR, core banking, card management sysytem, RDBMS, E-mail and SMS
+- Integrated with IVR, core banking, card management system, RDBMS, E-mail and SMS
 - Significantly Reduce Hold Times, Improve agent responsiveness, Improve Operational Efficiency
 - Tech stack: .net, Node.js, Avaya, Aspect, Genesys
 
