@@ -10,7 +10,7 @@ List of all the projects I have worked on till date
 ## Chatbot - For Bank
 - Client- EBL, Bangladesh
 - Designed and deveoped the first ever Chatbot application for my organisation
-- Bot is published on Facebbok and Viber social media channels 
+- Bot is published on Facebook and Viber social media channels 
 - Tech stack: Eudata, Node.js
 
 ## Universal Saleforce CTI Adapter
@@ -30,7 +30,7 @@ List of all the projects I have worked on till date
 ## Chatbot - For Insurance Company
 - Client- The National Health Insurance Company, Daman
 - Dynamic bot developed using Eudata, Google Dialogflow Symantec engine for natural and rich conversational experience, powered by machine learning and AI
-- Bot is published on Facebbok and comany website 
+- Bot is published on Facebook and comany website 
 - Tech stack: Eudata, Node.js
 
 ## MiniCRM
