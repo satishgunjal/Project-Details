@@ -30,7 +30,7 @@ List of all the projects I have worked on till date
 ## Chatbot - For Insurance Company
 - Client- The National Health Insurance Company, Daman
 - Dynamic bot developed using Eudata, Google Dialogflow Symantec engine for natural and rich conversational experience, powered by machine learning and AI
-- Bot is published on Facebook and comany website 
+- Bot is published on Facebook and company website 
 - Tech stack: Eudata, Node.js
 
 ## MiniCRM
