@@ -2,7 +2,6 @@
 List of all the projects I have worked on till date
 
 ## Wearable Recording Device
-- Client- Lodha, Mumbai
 - Lead the team to  design and manufacture the smart wearable recording device with 10 hours of battery life to record CD quality audio
 - We did everything inhouse including Hardware and software 
 - Tech stack: Raspberry pi, sensors, MEMS microphone, UPS, Python, Node.js
@@ -15,7 +14,6 @@ List of all the projects I have worked on till date
 - Tech stack: Eudata, Node.js
 
 ## Universal Saleforce CTI Adapter
-- Client- Oberoi Realty Limited, Mumbai
 - Server side CTI adapter developed using Node.js whereas client is developed using Vue.
 - It supports all the agent and telephony functionality and outbound Interaction Dialer and Dialer campaigns. 
 - Adapter exposes REST API for client applications to make requests. 
@@ -24,7 +22,7 @@ List of all the projects I have worked on till date
 - More details: https://github.com/satishgunjal/IcwsCtiConnector.git
 
 ## Hydroponic Room Automation 
-- Using Raspberry pi, 5V 30A relay to control one 0.5HP submersible water pump, 4 exhaust fans, 2 table fan, 1 Air Cooler
+- Using Raspberry pi, 5V 30A relays to control one 0.5HP submersible water pump, 4 exhaust fans, 2 table fan, 1 Air Cooler
 - Temp & humidity sensor will take readings after every 10 minutes and start/stop the fans and cooler to maintain the temp and humidity level in room 
 - Tech stack: Raspberry pi, DHT22 temperature & humidity sensor, UPS, Python
 - More details: https://github.com/satishgunjal/Hydroponic-Room-Automation.git
